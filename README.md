@@ -33,4 +33,8 @@ The collected data can be further processed (even visualized with the use of Exc
     <br/>   - calculate your shop's share of a specific paid/organic position in search results
     
   <br/>   For each query/product:
-    <br/>  - identify the aggressiveness of your advertizing (i.e. most aggressive for 1st position in paid results AND 1st position in organic results) and along with data from Google Ads, decide if you should increase       or decrease the bidding for this keyword
+    <br/>  - identify the aggressiveness of your advertizing (i.e. most aggressive for 1st position in paid results AND 1st position in organic results) and along with data from Google Ads, decide if you should increase or decrease the bidding for this keyword.
+    
+
+<img src="https://github.com/dpan331/Google_Paid-Organic_scraper/blob/master/adOrg_img/it-crowd-moss-fire-exting.jpg" height="300" width="400">
+
