@@ -5,9 +5,7 @@
 This script does not by any means aim to cause any harm to the website that uses to scrap data.
 It is only for personal portfolio & educational purposes and not destined to be used by third parties for commercial or any other purpose that might harm the smooth operation of the source website.
 
-*The Author does not continue to maintain the script,
-<br/> so, in time, certain operations or even the entire script 
-<br/> may not be functional.*
+:children_crossing: *The Author does not continue to maintain the script, so, in time, certain operations or even the entire script may not be functional.*
 
 **Scope of the script:**
 <br/> The script gets as input a *list of queries* (i.e. product names),
